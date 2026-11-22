@@ -1,0 +1,6 @@
+node_modules/
+desktop/dist/
+desktop/ak-rhythm-pad.html
+desktop/ak-shred.html
+*.zip
+.DS_Store
